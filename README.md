@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Quan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer specializing in building web and app platforms in VietNam</h3>
+
+- 💬 Ask me about **C#, .NET for backend development, and building efficient APIs**
+
+- 📫 How to reach me **quansongngu13@gmail.com**
+
+- ⚡ Fun fact **I love optimizing code as much as I love solving complex backend challenges!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
